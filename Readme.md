@@ -10,9 +10,9 @@ This electronic device fetches data from Open Sky about nearby flights and displ
 
 ## Libraries/bins
 
-ESP32_GENERIC-\*.bin from https://micropython.org/download/ESP32_GENERIC
-gc9a01.py from https://github.com/russhughes/gc9a01py
-ssd1306.py from https://github.com/micropython/micropython-lib/blob/master/micropython/drivers/display/ssd1306/ssd1306.py - it may or may not be included in the standard MicroPython libraries - worth checking
+- ESP32_GENERIC-\*.bin from https://micropython.org/download/ESP32_GENERIC
+- gc9a01.py from https://github.com/russhughes/gc9a01py
+- ssd1306.py from https://github.com/micropython/micropython-lib/blob/master/micropython/drivers/display/ssd1306/ssd1306.py - it may or may not be included in the standard MicroPython libraries - worth checking
 
 ## Configuration
 
