@@ -24,8 +24,8 @@ WIFI_PASSWORD =
 
 DATA_SCL_PIN = 19
 DATA_SDA_PIN = 18
-ROUND_SCK_PIN  = 14   # SPI Clock
-ROUND_MOSI_PIN = 23   # SPI Data (MOSI)
+ROUND_SCK_PIN  = 14   # SPI Clock (SCL)
+ROUND_MOSI_PIN = 13   # SPI Data (MOSI) (SDA)
 ROUND_CS_PIN   = 5    # Chip Select
 ROUND_DC_PIN   = 2    # Data/Command
 ROUND_RST_PIN  = 1    # Reset
